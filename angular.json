@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-spacex"
+    }
+  },
+  "defaultProject": "angular-spacex",
+  "cli": {
+    "analytics": "148a92c2-9650-47c0-a0ec-2c34f6904869"
+  }
 }
